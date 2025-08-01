@@ -1,5 +1,5 @@
 import { ExternalLink, Award, Coins, Star } from 'lucide-react';
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 import MinecraftBackground from '@/react-app/components/MinecraftBackground';
 
 export default function Home() {
