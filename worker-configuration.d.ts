@@ -1,5 +1,3 @@
-{
-  "compilerOptions": {
-    "types": ["./worker-configuration.d.ts"]
-  }
-}
+// worker-configuration.d.ts
+// Empty or placeholder type declarations
+export {};
